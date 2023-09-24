@@ -181,13 +181,13 @@ TextReply = 'قابل اغشك حب'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
-if text == 'شسمج' then
-TextReply = 'اسمي سعديه ام لبن'
+if text == 'شسمكك' then
+TextReply = 'معليك بأسمي عيب'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
 if text == 'شسمك' then
-TextReply = 'اسمي صكار البنات🤭'
+TextReply = 'اسمي نفس اسمك ماكو فرق حبي'
 send(msg.chat_id_, msg.id_,'['..TextReply..']')
 return false
 end
